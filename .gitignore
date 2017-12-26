@@ -11,3 +11,7 @@
 *_?ats.js
 
 # End of https://www.gitignore.io/api/ats
+
+# Executables
+hello
+guess
